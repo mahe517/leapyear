@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Leapyear   {
+public class Demo {
 
     public static void main(String[] args) {
 
